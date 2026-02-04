@@ -29,6 +29,6 @@ pnpm-debug.log*
 .init/
 .trae/
 
-pnpm-lock.yaml
+# pnpm-lock.yaml
 package-lock.json
 yarn.lock
