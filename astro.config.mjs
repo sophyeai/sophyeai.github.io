@@ -39,29 +39,30 @@ export default defineConfig({
           translations: { zh: '开始' },
           items: [
             'guides',
+            'guides/specification',
           ],
         },
-        {
-          label: 'Concepts',
-          translations: { zh: '概念' },
-          items: [
-            {
-              slug: 'guides/sophye-personas',
-              label: 'Personas',
-              translations: { zh: '虚拟人格' },
-            },
-            {
-              slug: 'guides/sophye-kbs',
-              label: 'Knowledge Bases',
-              translations: { zh: '知识库' },
-            },
-            {
-              slug: 'guides/sophye-skills',
-              label: 'Skills',
-              translations: { zh: '技能包' },
-            },
-          ],
-        },
+        // {
+        //   label: 'Concepts',
+        //   translations: { zh: '概念' },
+        //   items: [
+        //     {
+        //       slug: 'guides/sophye-kbs',
+        //       label: 'Knowledge Bases',
+        //       translations: { zh: '知识库' },
+        //     },
+        //     {
+        //       slug: 'guides/sophye-skills',
+        //       label: 'Skills',
+        //       translations: { zh: '技能包' },
+        //     },
+        //     {
+        //       slug: 'guides/sophye-personas',
+        //       label: 'Personas',
+        //       translations: { zh: '虚拟人格' },
+        //     },
+        //   ],
+        // },
       ],
       lastUpdated: true,
     }),
