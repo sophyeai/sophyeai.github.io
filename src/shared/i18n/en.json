@@ -1,0 +1,49 @@
+{
+  "header": {
+    "nav": {
+      "home": "Home",
+      "features": "Features",
+      "docs": "Documentation",
+      "contact": "Contact"
+    },
+    "lang": {
+      "en": "English",
+      "zh": "中文"
+    }
+  },
+  "hero": {
+    "title": "Welcome to Sophye",
+    "subtitle": "Your intelligent AI assistant",
+    "description": "Sophye is an advanced AI agent designed to help you with various tasks, providing intelligent solutions and seamless experiences.",
+    "cta": "Get Started"
+  },
+  "features": {
+    "title": "Key Features",
+    "list": [
+      {
+        "title": "Intelligent Assistance",
+        "description": "Sophye provides smart, context-aware responses to your queries and tasks."
+      },
+      {
+        "title": "Multi-platform Support",
+        "description": "Access Sophye from anywhere, on any device."
+      },
+      {
+        "title": "Secure & Private",
+        "description": "Your data is protected with advanced security measures."
+      },
+      {
+        "title": "Continuous Learning",
+        "description": "Sophye constantly improves through machine learning."
+      }
+    ]
+  },
+  "footer": {
+    "copyright": "© 2024 Sophye AI. All rights reserved.",
+    "links": {
+      "privacy": "Privacy Policy",
+      "terms": "Terms of Service",
+      "github": "GitHub"
+    }
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "header": {
+    "nav": {
+      "home": "首页",
+      "features": "功能",
+      "docs": "文档",
+      "contact": "联系我们"
+    },
+    "lang": {
+      "en": "English",
+      "zh": "中文"
+    }
+  },
+  "hero": {
+    "title": "欢迎使用 Sophye",
+    "subtitle": "您的智能 AI 助手",
+    "description": "Sophye 是一款先进的 AI 代理，旨在帮助您完成各种任务，提供智能解决方案和无缝体验。",
+    "cta": "开始使用"
+  },
+  "features": {
+    "title": "核心功能",
+    "list": [
+      {
+        "title": "智能辅助",
+        "description": "Sophye 为您的查询和任务提供智能、上下文感知的响应。"
+      },
+      {
+        "title": "多平台支持",
+        "description": "随时随地在任何设备上访问 Sophye。"
+      },
+      {
+        "title": "安全隐私",
+        "description": "您的数据通过先进的安全措施得到保护。"
+      },
+      {
+        "title": "持续学习",
+        "description": "Sophye 通过机器学习不断改进。"
+      }
+    ]
+  },
+  "footer": {
+    "copyright": "© 2024 Sophye AI. 保留所有权利。",
+    "links": {
+      "privacy": "隐私政策",
+      "terms": "服务条款",
+      "github": "GitHub"
+    }
+  }
+}
