@@ -1,6 +1,6 @@
 ---
 title: 关于 Sophye
-description: An introduction to Sophye AI.
+description: 带你简单认识下「Sophye」这个项目。
 ---
 
 「Sophye」这个名字取自「Sophia」或「Sophie」的变体，是 [OurAI Labs](https://labs.ourai.ws) 在「[人生数智化工程](https://world.ourai.ws)」方向的一个项目。
