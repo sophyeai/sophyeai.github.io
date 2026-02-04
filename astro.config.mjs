@@ -36,33 +36,26 @@ export default defineConfig({
       sidebar: [
         {
           label: 'Getting Started',
-          translations: { zh: '开始' },
+          translations: { zh: '初识 Sophye' },
           items: [
             'guides',
+          ],
+        },
+        {
+          label: 'About Sophye',
+          translations: { zh: '了解 Sophye' },
+          items: [
+            'guides/core-concepts',
             'guides/specification',
           ],
         },
-        // {
-        //   label: 'Concepts',
-        //   translations: { zh: '概念' },
-        //   items: [
-        //     {
-        //       slug: 'guides/sophye-kbs',
-        //       label: 'Knowledge Bases',
-        //       translations: { zh: '知识库' },
-        //     },
-        //     {
-        //       slug: 'guides/sophye-skills',
-        //       label: 'Skills',
-        //       translations: { zh: '技能包' },
-        //     },
-        //     {
-        //       slug: 'guides/sophye-personas',
-        //       label: 'Personas',
-        //       translations: { zh: '虚拟人格' },
-        //     },
-        //   ],
-        // },
+        {
+          label: 'Use Sophye',
+          translations: { zh: '使用 Sophye' },
+          items: [
+            'guides/working-with-coding-agents',
+          ],
+        },
       ],
       lastUpdated: true,
     }),

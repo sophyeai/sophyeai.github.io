@@ -15,7 +15,7 @@ skill-name/
   └── readme.md           # 必需
 ```
 
-其中，`entity.yml` 是 Agent Skills 的 `SKILL.md` 中前置的 front matter 部分，而 `readme.md` 则是 `SKILL.md` 的内容主体部分。
+其中，`entity.yml` 是 Agent Skills 的 `SKILL.md` 中前置的 frontmatter 部分，而 `readme.md` 则是 `SKILL.md` 的内容主体部分。
 
 ## 转换方式
 
