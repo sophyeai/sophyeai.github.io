@@ -1,4 +1,9 @@
 ---
+// Import the global.css file here so that it is included on
+// all pages through the use of the <BaseHead /> component.
+import '@/styles/tailwind-default.css';
+import '@/styles/global.css';
+
 import type { Locale } from '@/i18n';
 
 // 从路径中提取语言
@@ -23,8 +28,8 @@ const { title = 'Sophye AI', description = 'Your intelligent AI assistant' } = A
     <meta name="description" content={description} />
     <link rel="stylesheet" href="/src/shared/styles/global.css" />
   </head>
-  <body className="font-sans bg-white text-secondary-900">
-    <main className="pt-24 pb-16">
+  <body class="font-sans bg-white text-secondary-900">
+    <main class="pt-24 pb-16">
       <slot />
     </main>
   </body>

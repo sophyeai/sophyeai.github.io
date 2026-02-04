@@ -23,6 +23,7 @@
     "@astrojs/react": "3.6.2",
     "@astrojs/rss": "4.0.9",
     "@astrojs/starlight": "0.28.5",
+    "@astrojs/starlight-tailwind": "2.0.3",
     "@astrojs/tailwind": "5.1.2",
     "@nextui-org/react": "2.4.8",
     "@types/canvas-confetti": "1.6.4",

@@ -1,4 +1,5 @@
 const { nextui } = require('@nextui-org/react');
+const starlightPlugin = require('@astrojs/starlight-tailwind');
 
 module.exports = {
   content: [
@@ -8,5 +9,5 @@ module.exports = {
   theme: {
     extend: {},
   },
-  plugins: [nextui()],
+  plugins: [nextui(), starlightPlugin()],
 }
